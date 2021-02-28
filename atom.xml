@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuchen.github.io</id>
     <title>雨辰私货</title>
-    <updated>2021-02-28T04:51:24.095Z</updated>
+    <updated>2021-02-28T05:04:43.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuchen.github.io"/>
     <link rel="self" href="https://yuchen.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://yuchen.github.io/images/avatar.png</logo>
     <icon>https://yuchen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 雨辰私货</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://yuchen.github.io/post/JegYGpP2M/</id>
+        <link href="https://yuchen.github.io/post/JegYGpP2M/">
+        </link>
+        <updated>2021-02-28T05:01:45.000Z</updated>
+        <content type="html"><![CDATA[<p>测试TEST</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yuchen.github.io/post/hello-gridea/</id>
